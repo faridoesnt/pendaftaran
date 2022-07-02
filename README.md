@@ -20,3 +20,13 @@ Laravel SB Admin 2 uses some open-source third-party libraries/packages, many th
 -   Laravel - Open source framework.
 -   LaravelEasyNav - Making managing navigation in Laravel easy.
 -   SB Admin 2 - Thanks to Start Bootstrap.
+
+## Preview
+
+`Halaman Pendaftaran`
+
+<img src="https://iili.io/jI0L6g.png"/>
+
+`Halaman Admin`
+
+<img src="https://iili.io/jI15Sj.png"/>
